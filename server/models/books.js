@@ -9,7 +9,7 @@ let gamesSchema = mongoose.Schema({
     Genre: String
 },
 {
-  collection: "books"
+  collection: "favBooks"
 });
 
-module.exports = mongoose.model('books', gamesSchema);
+module.exports = mongoose.model('midterm-300942719', gamesSchema);
