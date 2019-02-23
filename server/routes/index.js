@@ -1,3 +1,8 @@
+// File name: index.js
+// Author name: Maninderpal Singh
+// StudentID: 300942719
+// WebAppName: COMP308-W2019-Midterm-300942719
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

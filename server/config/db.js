@@ -1,3 +1,9 @@
+// File name: db.js
+// Author name: Maninderpal Singh
+// StudentID: 300942719
+// WebAppName: COMP308-W2019-Midterm-300942719
+
+
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books308"
